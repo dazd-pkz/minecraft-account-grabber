@@ -12,7 +12,7 @@
 <br><br>
 <p align="center">
 <strong>
-Minecraft Account Grabber is a software written in batch to Grab mojang personal information from AppData and send them into Discord Webhook
+Minecraft Account Grabber is a program to grab Mojang personal information from AppData and send them into a Webhook
 <br><br><br>
 </strong>
 </p>
