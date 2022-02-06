@@ -12,7 +12,7 @@
 <br><br>
 <p align="center">
 <strong>
-Minecraft Account Grabber is a program to grab Mojang personal information from AppData and send them into a Webhook
+Minecraft Account Grabber is a program to grab Mojang personal information and send them into a Webhook
 <br><br><br>
 </strong>
 </p>
@@ -36,6 +36,8 @@ Minecraft Account Grabber is a program to grab Mojang personal information from 
 
 <br>
 <strong>- If you click on the software, the grabber no more work</strong>
+<br>
+<strong>- Only work for non-migrator user</strong>
 <br><br>
 
 -----
